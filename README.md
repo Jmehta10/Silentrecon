@@ -2,12 +2,7 @@
 Resolving host names first can lead to a faster port scan and give you more visibility into your target's IP space
 
 
-```markdown
-# Subdomain Recon & Port Scan Pipeline
 
-![Recon Pipeline](https://img.shields.io/badge/Recon-Pipeline-blue)
-![Bash Script](https://img.shields.io/badge/Bash-Script-green)
-![Security Tools](https://img.shields.io/badge/Security-Tools-red)
 
 A silent, automated reconnaissance pipeline that discovers subdomains, resolves them to IPs, scans for open ports, and outputs only the final `host:port` results — no intermediate files, no verbose output.
 
